@@ -9,7 +9,8 @@ The repository contains implementation of all the Design Patterns listed below:
 5. Decorator Pattern
 6. Bridge Pattern
 7. Adapter Pattern
-
+8. Command Pattern
+9. Visitor Pattern
 
 References 
 
