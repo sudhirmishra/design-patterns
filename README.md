@@ -2,15 +2,22 @@
 
 The repository contains implementation of all the Design Patterns listed below:
 
-1. Observer Pattern
-2. Factory Pattern
-3. Abstract Factory Pattern
-4. Chain of Responsibility Pattern
-5. Decorator Pattern
-6. Bridge Pattern
-7. Adapter Pattern
-8. Command Pattern
-9. Visitor Pattern
+## Creational Patterns
+	1. Abstract Factory Pattern
+	2. Factory Pattern
+
+## Beahvioral Patterns
+	1. Adapter Pattern
+	2. Bridge Pattern
+	3. Decorator Pattern
+
+## Structural Patterns
+
+	
+	1. Observer Pattern
+	2. Chain of Responsibility Pattern
+	3. Command Pattern
+	4. Visitor Pattern
 
 References 
 
