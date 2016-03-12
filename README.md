@@ -11,13 +11,12 @@ The repository contains implementation of all the Design Patterns listed below:
 	2. Bridge Pattern
 	3. Decorator Pattern
 
-## Structural Patterns
-
-	
+## Structural Patterns	
 	1. Observer Pattern
 	2. Chain of Responsibility Pattern
 	3. Command Pattern
 	4. Visitor Pattern
+	5. Composite Pattern
 
 References 
 
