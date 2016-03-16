@@ -10,6 +10,7 @@ The repository contains implementation of all the Design Patterns listed below:
 	1. Adapter Pattern
 	2. Bridge Pattern
 	3. Decorator Pattern
+	4. State Pattern
 
 ## Structural Patterns	
 	1. Observer Pattern
@@ -17,6 +18,7 @@ The repository contains implementation of all the Design Patterns listed below:
 	3. Command Pattern
 	4. Visitor Pattern
 	5. Composite Pattern
+	6. Proxy Pattern
 
 References 
 
